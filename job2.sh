@@ -4,6 +4,6 @@ if [ $exit_code == 200 ]
 then
 exit 0
 else
-python3 mail.py
+python3 /task6_code/mail.py
 exit 1
 fi
